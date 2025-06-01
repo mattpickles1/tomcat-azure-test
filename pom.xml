@@ -38,7 +38,7 @@
                     <resourceGroup>${azure.resourceGroup}</resourceGroup>
                     <appName>${azure.appName}</appName>
                     <pricingTier>B2</pricingTier>
-                    <region>westus</region>
+                    <region>spaincentral</region>
                     <runtime>
                         <os>linux</os>
                         <webContainer>TOMCAT 8.5</webContainer>
